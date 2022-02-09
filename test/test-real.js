@@ -1,7 +1,7 @@
 import { Selector } from 'testcafe'
 
 fixture`Links`
-  .page`http://localhost:3000/page1.html`
+  .page`http://localhost:3000/en_gb/features/links.html`
 
 
 test('Internal new window link', async t => {

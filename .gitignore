@@ -1,3 +1,11 @@
+#
+html/etc.clientlibs/
+html/amidoc.*
+html/ar_sa.*
+html/en_gb/
+html/en_gb.*
+html/data/
+
 # Logs
 logs
 *.log
