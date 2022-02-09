@@ -1,0 +1,7 @@
+{ 
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^13.0.2",
+    "testcafe": "^1.18.3"
+  }
+}
